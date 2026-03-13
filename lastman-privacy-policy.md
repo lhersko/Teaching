@@ -2,7 +2,7 @@
 
   Last updated: February 8, 2026
 
-  Frontier Bound does not collect personal information, create accounts, or
+  Last Man does not collect personal information, create accounts, or
   track users across apps or websites.
 
   Data We Collect
