@@ -1,0 +1,15 @@
+Privacy Policy — The Amazing Flying Moles
+
+Last updated: July 8, 2026
+
+The game does not collect personal information, create accounts, or track users across apps or websites.
+
+Data We Collect
+
+Crash reports (Firebase Crashlytics): when the app crashes, anonymous diagnostic information is sent to help improve stability. This does not include your name, email, or content from your device. Data We Do Not Collect
+
+No analytics or telemetry identifiers No location data No contacts, photos, or other personal content
+
+Data Storage
+
+Game progress is stored locally on your device. If iCloud/CloudKit is enabled in a future update, saves may sync across your devices using your iCloud account. Contact If you have questions, contact: lstmnspprt@gmail.com
