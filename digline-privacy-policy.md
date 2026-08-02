@@ -6,7 +6,7 @@ Digline is a single-player game with no account sign-up, no ads and no user trac
 
 ## Who is responsible for your data
 
-The data controller for Digline is Luis Herskovic, Camino Punta de Aguilas 9300, Santiago, Región Metropolitana, Chile. You can reach me at lstmnspprt@gmail.com about anything on this page.
+The data controller for Digline is Luis Herskovic, an independent developer based in Chile. You can reach me at lstmnspprt@gmail.com about anything on this page, including any request about your data, and I will always answer.
 
 ## What is collected, and why
 
