@@ -1,6 +1,6 @@
 # Privacy Policy: Digline (Android)
 
-Last updated: 10 August 2026
+Last updated: 11 August 2026
 
 Digline is a single-player game with no account sign-up, no ads and no user tracking. It does collect a small amount of anonymous technical and usage information, described in full below.
 
@@ -10,9 +10,8 @@ The data controller for Digline is Luis Herskovic, an independent developer base
 
 ## What is collected, and why
 
-- **Google (Google Analytics)** — Approximate usage data: which screens you open, which in-game actions you take, how deep a run reached and whether it ended badly, session length, app version and the language the game is set to. Purpose: To understand which parts of the game people play and where they get stuck, so the game can be improved.
-- **Google (Google Analytics)** — A random identifier that the game generates on your device the first time you open it and stores in the app's own private storage. It is not your Google account, not your device's advertising ID, and not tied to anything else about you. Clearing the app's data or uninstalling the game destroys it, and a new unrelated one is generated next time. Purpose: To count distinct installs so usage statistics are not double-counted.
-- **Google (Google Analytics)** — Your IP address, which reaches Google as the source of the request. Google uses it to derive an approximate country and then discards it; it is not stored against the records above and I never see it. Purpose: To know roughly which countries the game is played in.
+- **Google (Firebase Analytics)** — Approximate usage data: which screens you open, which in-game actions you take, session length, app version, device model, operating system version, language and country of your Google Play storefront. Purpose: To understand which parts of the game people play and where they get stuck, so the game can be improved.
+- **Google (Firebase Analytics)** — A randomly generated app instance identifier. This is created by the app on your device, is not your Google account, is not the advertising ID, and is reset if you delete and reinstall the app. This app does not collect the advertising ID at all: collection is switched off in the build and the permission is removed. Purpose: To count distinct installs so usage statistics are not double-counted.
 
 None of this is linked to your real-world identity. I cannot identify an individual person from any of it.
 
