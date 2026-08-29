@@ -1,6 +1,6 @@
 # Privacy Policy: Digline (Android)
 
-Last updated: 11 August 2026
+Last updated: 29 August 2026
 
 Digline is a single-player game with no account sign-up, no ads and no user tracking. It does collect a small amount of anonymous technical and usage information, described in full below.
 
@@ -12,6 +12,7 @@ The data controller for Digline is Luis Herskovic, an independent developer base
 
 - **Google (Firebase Analytics)** — Approximate usage data: which screens you open, which in-game actions you take, session length, app version, device model, operating system version, language and country of your Google Play storefront. Purpose: To understand which parts of the game people play and where they get stuck, so the game can be improved.
 - **Google (Firebase Analytics)** — A randomly generated app instance identifier. This is created by the app on your device, is not your Google account, is not the advertising ID, and is reset if you delete and reinstall the app. This app does not collect the advertising ID at all: collection is switched off in the build and the permission is removed. Purpose: To count distinct installs so usage statistics are not double-counted.
+- **Google (Firebase Crashlytics)** — Crash and error diagnostics: the crash stack trace, device model, operating system version, app version, free memory and storage at the time of the crash, and a randomly generated installation identifier. Purpose: To find and fix crashes and performance problems.
 
 None of this is linked to your real-world identity. I cannot identify an individual person from any of it.
 
@@ -22,7 +23,6 @@ None of this is linked to your real-world identity. I cannot identify an individ
 - No location data. The app never requests location permission and contains no location code.
 - No contacts, photos, microphone, camera or health data.
 - No tracking across other companies' apps or websites, and nothing is sold or shared with data brokers.
-- No crash or error reporting. This build contains no crash-reporting library of any kind.
 - No Google Play Games Services. This build is not signed in to Play Games and submits no achievements or leaderboard scores.
 - No in-app purchases and no payment information. There is nothing to buy in this game.
 
@@ -40,7 +40,7 @@ There is no cloud save in this version. Your progress lives only on this device,
 
 ## How long it is kept
 
-Analytics records are retained for up to 14 months and are then deleted automatically by Google.
+Analytics records are retained for up to 14 months and are then deleted automatically by Google. Crash reports are retained for up to 90 days.
 
 ## International transfers
 
