@@ -18,7 +18,7 @@ The Firebase usage and diagnostic information described above is separate from t
 
 ## Google Play Games
 
-Starting with Android version 1.0.17 (currently a testing candidate), Digline uses Google Play Games Services for game-specific player sign-in, achievements, Daily Dig rankings and cloud progress. Earlier Android versions do not contain these features. Google handles your gamer identity, achievements, submitted scores and cloud player-save data. Digline reads your game-specific player identifier and leaderboard display names; leaderboard visibility follows your Play Games profile settings. The SDK also collects usage and diagnostic information. Game data travels over HTTPS. The game does not request Google Account email, a friends list, or access to your ordinary Drive files.
+Starting with Android version 1.0.17, Digline uses Google Play Games Services for game-specific player sign-in, achievements, Daily Dig rankings and cloud progress. Earlier Android versions do not contain these features. Google handles your gamer identity, achievements, submitted scores and cloud player-save data. Digline reads your game-specific player identifier and leaderboard display names; leaderboard visibility follows your Play Games profile settings. The SDK also collects usage and diagnostic information. Game data travels over HTTPS. The game does not request Google Account email, a friends list, or access to your ordinary Drive files.
 
 ## What is never collected
 
