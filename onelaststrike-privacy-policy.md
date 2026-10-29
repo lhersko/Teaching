@@ -1,6 +1,6 @@
 # Privacy Policy: One Last Strike
 
-Last updated: 26 October 2026
+Last updated: 28 October 2026
 
 One Last Strike is a single-player game with no account sign-up, no ads and no user tracking. It does collect a small amount of anonymous technical and usage information, described in full below.
 
@@ -33,6 +33,8 @@ You can object to this processing at any time by contacting me at lstmnspprt@gma
 ## Where your game data lives
 
 Your game progress is saved locally on your device.
+
+If you are signed in to iCloud and have iCloud Drive enabled, your save file also syncs through Apple's iCloud key-value store so your progress follows you between your own devices. That data sits in your personal iCloud account under Apple's privacy policy; it is not sent to me and I cannot read it.
 
 If you use Game Center, your achievements and leaderboard entries are handled by Apple under Apple's privacy policy. I receive no personal information from Game Center.
 
