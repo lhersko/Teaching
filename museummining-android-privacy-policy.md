@@ -1,6 +1,6 @@
 # Privacy Policy: Museum Mining (Android)
 
-Last updated: 06 November 2026
+Last updated: 07 November 2026
 
 Museum Mining is a single-player game with no account sign-up, no ads and no user tracking. It does collect a small amount of anonymous technical and usage information, described in full below.
 
@@ -23,7 +23,6 @@ None of this is linked to your real-world identity. I cannot identify an individ
 - No location data. The app never requests location permission and contains no location code.
 - No contacts, photos, microphone, camera or health data.
 - No tracking across other companies' apps or websites, and nothing is sold or shared with data brokers.
-- No Google Play Games Services. This build is not signed in to Play Games and submits no achievements or leaderboard scores.
 - No in-app purchases and no payment information. There is nothing to buy in this game.
 
 ## Legal basis (UK/EU GDPR)
@@ -37,6 +36,8 @@ You can object to this processing at any time by contacting me at lstmnspprt@gma
 Your game progress is saved locally on your device, in the app's own private storage. Uninstalling the game deletes it from the device.
 
 If Android backup is turned on for your Google account, Android may include your save in that backup and restore it when you set up a new phone or reinstall the game. That backup sits in your personal Google account under Google's privacy policy; it is not sent to me and I cannot read it. There is no live sync between devices.
+
+If you use Google Play Games, your achievements and leaderboard entries are handled by Google under Google's privacy policy. I receive no personal information from Play Games.
 
 ## How long it is kept
 
