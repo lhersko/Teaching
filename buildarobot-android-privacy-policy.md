@@ -1,0 +1,40 @@
+# Privacy Policy: Build a Robot (Android)
+
+Last updated: 21 November 2026
+
+Build a Robot is a single-player game. It collects no data at all: no analytics, no crash reporting, no accounts and no ads. Everything the game stores stays on your device.
+
+## Who is responsible for your data
+
+The data controller for Build a Robot is Luis Herskovic, an independent developer based in Chile. You can reach me at lstmnspprt@gmail.com about anything on this page, including any request about your data, and I will always answer.
+
+## What is never collected
+
+- No analytics, telemetry or crash reporting of any kind. This game contains no third-party analytics or crash-reporting SDK.
+- No name, email address, phone number or postal address.
+- No advertising ID and no advertising SDKs. The app does not request the com.google.android.gms.permission.AD_ID permission.
+- No location data. The app never requests location permission and contains no location code.
+- No contacts, photos, microphone, camera or health data.
+- No tracking across other companies' apps or websites, and nothing is sold or shared with data brokers.
+- No crash or error reporting. This build contains no crash-reporting library of any kind.
+- No Google Play Games Services. This build is not signed in to Play Games and submits no achievements or leaderboard scores.
+
+## Where your game data lives
+
+Your game progress is saved locally on your device, in the app's own private storage. Uninstalling the game deletes it from the device.
+
+There is no cloud save in this version. Your progress lives only on this device, so it does not follow you to a new phone.
+
+In-app purchases are processed entirely by Google Play. I never see your payment details. The app only records locally that a purchase completed.
+
+## Children
+
+Build a Robot is not directed at children under 13 and I do not knowingly collect personal information from them. No age is requested and no profile is built. If you believe a child has provided personal information, contact me and I will delete whatever can be identified.
+
+## Changes to this policy
+
+If this policy changes, the date at the top of this page changes with it. Material changes will also be noted in the app's release notes.
+
+## Contact
+
+lstmnspprt@gmail.com
