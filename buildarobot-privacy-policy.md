@@ -34,6 +34,8 @@ You can object to this processing at any time by contacting me at lstmnspprt@gma
 
 Your game progress is saved locally on your device.
 
+If you use Game Center, your achievements and leaderboard entries are handled by Apple under Apple's privacy policy. I receive no personal information from Game Center.
+
 In-app purchases, if any are offered, are processed entirely by Apple. I never see your payment details. The app only records locally that a purchase completed.
 
 ## How long it is kept
