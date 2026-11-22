@@ -34,7 +34,7 @@ You can object to this processing at any time by contacting me at lstmnspprt@gma
 
 Your game progress is saved locally on your device, in the app's own private storage. Uninstalling the game deletes it from the device.
 
-There is no cloud save in this version. Your progress lives only on this device, so it does not follow you to a new phone.
+If you are signed in to Google Play Games, your save file also syncs through Play Saved Games so your progress follows you between your own devices. That data sits in your personal Google account under Google's privacy policy; it is not sent to me and I cannot read it.
 
 If you use Google Play Games, your achievements and leaderboard entries are handled by Google under Google's privacy policy. I receive no personal information from Play Games.
 
