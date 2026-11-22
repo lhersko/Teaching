@@ -23,7 +23,6 @@ None of this is linked to your real-world identity. I cannot identify an individ
 - No location data. The app never requests location permission and contains no location code.
 - No contacts, photos, microphone, camera or health data.
 - No tracking across other companies' apps or websites, and nothing is sold or shared with data brokers.
-- No Google Play Games Services. This build is not signed in to Play Games and submits no achievements or leaderboard scores.
 
 ## Legal basis (UK/EU GDPR)
 
@@ -36,6 +35,8 @@ You can object to this processing at any time by contacting me at lstmnspprt@gma
 Your game progress is saved locally on your device, in the app's own private storage. Uninstalling the game deletes it from the device.
 
 There is no cloud save in this version. Your progress lives only on this device, so it does not follow you to a new phone.
+
+If you use Google Play Games, your achievements and leaderboard entries are handled by Google under Google's privacy policy. I receive no personal information from Play Games.
 
 In-app purchases are processed entirely by Google Play. I never see your payment details. The app only records locally that a purchase completed.
 
