@@ -1,6 +1,6 @@
 # Privacy Policy: Build a Robot (Android)
 
-Last updated: 21 November 2026
+Last updated: 25 November 2026
 
 Build a Robot is a single-player game with no account sign-up, no ads and no user tracking. It does collect a small amount of anonymous technical and usage information, described in full below.
 
@@ -23,6 +23,7 @@ None of this is linked to your real-world identity. I cannot identify an individ
 - No location data. The app never requests location permission and contains no location code.
 - No contacts, photos, microphone, camera or health data.
 - No tracking across other companies' apps or websites, and nothing is sold or shared with data brokers.
+- No in-app purchases and no payment information. There is nothing to buy in this game.
 
 ## Legal basis (UK/EU GDPR)
 
@@ -37,8 +38,6 @@ Your game progress is saved locally on your device, in the app's own private sto
 If you are signed in to Google Play Games, your save file also syncs through Play Saved Games so your progress follows you between your own devices. That data sits in your personal Google account under Google's privacy policy; it is not sent to me and I cannot read it.
 
 If you use Google Play Games, your achievements and leaderboard entries are handled by Google under Google's privacy policy. I receive no personal information from Play Games.
-
-In-app purchases are processed entirely by Google Play. I never see your payment details. The app only records locally that a purchase completed.
 
 ## How long it is kept
 
